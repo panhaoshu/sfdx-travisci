@@ -1,9 +1,5 @@
 {
-    "orgName": "wade.wegner Example",
-    "edition": "Developer",
-    "settings": {
-    "lightningExperienceSettings": {
-        "enableS1DesktopEnabled": true
-
-    }
+  "orgName": "apple company",
+  "edition": "Developer",
+  "features": []
 }
